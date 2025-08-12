@@ -1,0 +1,27 @@
+# Node modules folder
+node_modules/
+
+# Environment variables file (contains secrets like API keys)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Build folders or output (if you have any)
+dist/
+build/
+
+# IDE/editor folders (optional but common)
+.vscode/
+.idea/
+
+# Coverage reports (if you add testing)
+coverage/
